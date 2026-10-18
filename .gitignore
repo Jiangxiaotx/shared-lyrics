@@ -1,0 +1,22 @@
+# 运行时缓存（每台机器生成，不要提交）
+cache/
+
+# 自备歌词文件（可能包含版权内容）
+lyrics/
+
+# 依赖与日志
+node_modules/
+npm-debug.log*
+*.log
+
+# 便携版内置运行时
+node.exe
+npm.cmd
+npx.cmd
+
+# 编辑器 / 系统
+.vscode/
+.idea/
+Thumbs.db
+desktop.ini
+.DS_Store
