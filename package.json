@@ -1,0 +1,22 @@
+{
+  "name": "shared-lyrics",
+  "version": "1.0.0",
+  "description": "把手机变成 QQ 音乐的歌词屏和遥控器（Windows 本地服务，零第三方依赖）",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "lyrics",
+    "qqmusic",
+    "smtc",
+    "windows",
+    "lrc",
+    "remote-control"
+  ],
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "private": true
+}
